@@ -3,3 +3,10 @@ Django
 Pillow
 gunicorn
 python-dotenv
+
+
+Django>=4.2,<6.0
+gunicorn
+whitenoise
+dj-database-url
+psycopg2-binary
